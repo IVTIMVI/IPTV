@@ -1,7 +1,3 @@
 #EXTM3U
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="Music",MTV 80s
-http://ott.watch/live/W11PAIALFL/87/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Music",MTV 90s
-http://ott.watch/live/GVWVL9S26G/88/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Music",MTV 00s
-http://ott.watch/live/GVWVL9S26G/165/tracks-v1a1/mono.ts.m3u8
+http://ott.watch/live/GFD9CYYIT1/87/tracks-v1a1/mono.ts.m3u8
