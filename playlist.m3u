@@ -1,5 +1,8 @@
 #EXTM3U
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="Movies",SIMPSONS
-http://ott.watch/84N8NUTE8Q/476/tracks-v1a1/mono.ts.m3u8
-
+http://ott.watch/QE61CH51S1/476/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Movies",TV 1000
+http://ott.watch/QE61CH51S1/100/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Movies",Кинокомедия HD
+http://ott.watch/QE61CH51S1/265/tracks-v2a1/mono.ts.m3u8
 
